@@ -1,0 +1,164 @@
+[2024-01-30 15:55:33,516][main.utils][INFO] - Disabling python warnings! <config.ignore_warnings=True>
+[2024-01-30 15:55:33,580][__main__][INFO] - Instantiating datamodule <main.module_base.DatamoduleWithValidation>.
+[2024-01-30 15:59:00,866][main.utils][INFO] - Disabling python warnings! <config.ignore_warnings=True>
+[2024-01-30 15:59:00,883][__main__][INFO] - Instantiating datamodule <main.module_base.DatamoduleWithValidation>.
+[2024-01-30 16:07:34,510][main.utils][INFO] - Disabling python warnings! <config.ignore_warnings=True>
+[2024-01-30 16:07:37,864][__main__][INFO] - Instantiating datamodule <main.module_base.DatamoduleWithValidation>.
+[2024-01-30 16:09:41,009][main.utils][INFO] - Disabling python warnings! <config.ignore_warnings=True>
+[2024-01-30 16:09:41,746][__main__][INFO] - Instantiating datamodule <main.module_base.DatamoduleWithValidation>.
+[2024-01-30 16:09:46,231][__main__][INFO] - Instantiating model <main.module_base.Model>.
+[2024-01-30 16:10:09,317][__main__][INFO] - Instantiating callback <pytorch_lightning.callbacks.RichProgressBar>.
+[2024-01-30 16:10:27,206][__main__][INFO] - Instantiating callback <pytorch_lightning.callbacks.ModelCheckpoint>.
+[2024-01-30 16:10:28,563][__main__][INFO] - Instantiating callback <pytorch_lightning.callbacks.RichModelSummary>.
+[2024-01-30 16:10:30,271][__main__][INFO] - Instantiating callback <main.module_base.MultiSourceSampleLogger>.
+[2024-01-30 16:10:59,331][__main__][INFO] - Instantiating logger <pytorch_lightning.loggers.wandb.WandbLogger>.
+[2024-01-30 16:15:49,195][main.utils][INFO] - Disabling python warnings! <config.ignore_warnings=True>
+[2024-01-30 16:15:51,091][__main__][INFO] - Instantiating datamodule <main.module_base.DatamoduleWithValidation>.
+[2024-01-30 16:15:53,974][__main__][INFO] - Instantiating model <main.module_base.Model>.
+[2024-01-30 16:16:11,985][__main__][INFO] - Instantiating callback <pytorch_lightning.callbacks.RichProgressBar>.
+[2024-01-30 16:16:13,576][__main__][INFO] - Instantiating callback <pytorch_lightning.callbacks.ModelCheckpoint>.
+[2024-01-30 16:16:17,010][__main__][INFO] - Instantiating callback <pytorch_lightning.callbacks.RichModelSummary>.
+[2024-01-30 16:16:18,272][__main__][INFO] - Instantiating callback <main.module_base.MultiSourceSampleLogger>.
+[2024-01-30 16:16:27,982][__main__][INFO] - Instantiating logger <pytorch_lightning.loggers.wandb.WandbLogger>.
+[2024-01-30 16:31:31,906][main.utils][INFO] - Disabling python warnings! <config.ignore_warnings=True>
+[2024-01-30 16:31:31,919][__main__][INFO] - Instantiating datamodule <main.module_base.DatamoduleWithValidation>.
+[2024-01-30 16:31:34,469][__main__][INFO] - Instantiating model <main.module_base.Model>.
+[2024-01-30 16:31:47,558][__main__][INFO] - Instantiating callback <pytorch_lightning.callbacks.RichProgressBar>.
+[2024-01-30 16:31:48,054][__main__][INFO] - Instantiating callback <pytorch_lightning.callbacks.ModelCheckpoint>.
+[2024-01-30 16:31:48,987][__main__][INFO] - Instantiating callback <pytorch_lightning.callbacks.RichModelSummary>.
+[2024-01-30 16:31:49,090][__main__][INFO] - Instantiating callback <main.module_base.MultiSourceSampleLogger>.
+[2024-01-30 16:31:49,544][__main__][INFO] - Instantiating logger <pytorch_lightning.loggers.wandb.WandbLogger>.
+[2024-01-30 16:32:33,267][__main__][INFO] - Instantiating trainer <pytorch_lightning.Trainer>.
+[2024-01-30 16:44:42,423][main.utils][INFO] - Disabling python warnings! <config.ignore_warnings=True>
+[2024-01-30 16:44:42,444][__main__][INFO] - Instantiating datamodule <main.module_base.DatamoduleWithValidation>.
+[2024-01-30 16:44:44,023][__main__][INFO] - Instantiating model <main.module_base.Model>.
+[2024-01-30 16:44:55,567][__main__][INFO] - Instantiating callback <pytorch_lightning.callbacks.RichProgressBar>.
+[2024-01-30 16:44:56,453][__main__][INFO] - Instantiating callback <pytorch_lightning.callbacks.ModelCheckpoint>.
+[2024-01-30 16:44:58,691][__main__][INFO] - Instantiating callback <pytorch_lightning.callbacks.RichModelSummary>.
+[2024-01-30 16:44:58,878][__main__][INFO] - Instantiating callback <main.module_base.MultiSourceSampleLogger>.
+[2024-01-30 16:44:59,005][__main__][INFO] - Instantiating logger <pytorch_lightning.loggers.wandb.WandbLogger>.
+[2024-01-30 16:46:07,001][__main__][INFO] - Instantiating trainer <pytorch_lightning.Trainer>.
+[2024-01-30 16:46:11,960][__main__][INFO] - Logging hyperparameters!
+[2024-01-30 16:47:03,912][__main__][INFO] - Starting training.
+[2024-01-30 16:53:12,439][main.utils][INFO] - Disabling python warnings! <config.ignore_warnings=True>
+[2024-01-30 16:53:12,452][__main__][INFO] - Instantiating datamodule <main.module_base.DatamoduleWithValidation>.
+[2024-01-30 16:53:14,868][__main__][INFO] - Instantiating model <main.module_base.Model>.
+[2024-01-30 16:53:20,293][__main__][INFO] - Instantiating callback <pytorch_lightning.callbacks.RichProgressBar>.
+[2024-01-30 16:53:20,306][__main__][INFO] - Instantiating callback <pytorch_lightning.callbacks.ModelCheckpoint>.
+[2024-01-30 16:53:20,360][__main__][INFO] - Instantiating callback <pytorch_lightning.callbacks.RichModelSummary>.
+[2024-01-30 16:53:20,373][__main__][INFO] - Instantiating callback <main.module_base.MultiSourceSampleLogger>.
+[2024-01-30 16:53:20,427][__main__][INFO] - Instantiating logger <pytorch_lightning.loggers.wandb.WandbLogger>.
+[2024-01-30 16:53:52,671][__main__][INFO] - Instantiating trainer <pytorch_lightning.Trainer>.
+[2024-01-30 16:54:34,622][__main__][INFO] - Logging hyperparameters!
+[2024-01-30 16:54:39,599][__main__][INFO] - Starting training.
+[2024-01-30 17:13:26,812][main.utils][INFO] - Disabling python warnings! <config.ignore_warnings=True>
+[2024-01-30 17:13:26,825][__main__][INFO] - Instantiating datamodule <main.module_base.DatamoduleWithValidation>.
+[2024-01-30 17:24:01,473][main.utils][INFO] - Disabling python warnings! <config.ignore_warnings=True>
+[2024-01-30 17:24:01,482][__main__][INFO] - Instantiating datamodule <main.module_base.DatamoduleWithValidation>.
+[2024-01-30 17:24:09,925][__main__][INFO] - Instantiating model <main.module_base.Model>.
+[2024-01-30 17:24:26,549][__main__][INFO] - Instantiating callback <pytorch_lightning.callbacks.RichProgressBar>.
+[2024-01-30 17:24:26,723][__main__][INFO] - Instantiating callback <pytorch_lightning.callbacks.ModelCheckpoint>.
+[2024-01-30 17:24:27,190][__main__][INFO] - Instantiating callback <pytorch_lightning.callbacks.RichModelSummary>.
+[2024-01-30 17:24:27,306][__main__][INFO] - Instantiating callback <main.module_base.MultiSourceSampleLogger>.
+[2024-01-30 17:24:27,484][__main__][INFO] - Instantiating logger <pytorch_lightning.loggers.wandb.WandbLogger>.
+[2024-01-30 17:25:05,644][__main__][INFO] - Instantiating trainer <pytorch_lightning.Trainer>.
+[2024-01-30 17:25:05,977][__main__][INFO] - Logging hyperparameters!
+[2024-01-30 17:25:06,297][__main__][INFO] - Starting training.
+[2024-01-30 17:27:46,109][main.utils][INFO] - Disabling python warnings! <config.ignore_warnings=True>
+[2024-01-30 17:27:46,123][__main__][INFO] - Instantiating datamodule <main.module_base.DatamoduleWithValidation>.
+[2024-01-30 17:27:50,313][__main__][INFO] - Instantiating model <main.module_base.Model>.
+[2024-01-30 17:27:55,616][__main__][INFO] - Instantiating callback <pytorch_lightning.callbacks.RichProgressBar>.
+[2024-01-30 17:27:55,622][__main__][INFO] - Instantiating callback <pytorch_lightning.callbacks.ModelCheckpoint>.
+[2024-01-30 17:27:55,653][__main__][INFO] - Instantiating callback <pytorch_lightning.callbacks.RichModelSummary>.
+[2024-01-30 17:27:55,660][__main__][INFO] - Instantiating callback <main.module_base.MultiSourceSampleLogger>.
+[2024-01-30 17:27:55,685][__main__][INFO] - Instantiating logger <pytorch_lightning.loggers.wandb.WandbLogger>.
+[2024-01-30 17:28:13,606][__main__][INFO] - Instantiating trainer <pytorch_lightning.Trainer>.
+[2024-01-30 17:28:13,839][__main__][INFO] - Logging hyperparameters!
+[2024-01-30 17:28:14,043][__main__][INFO] - Starting training.
+[2024-01-30 17:29:44,639][main.utils][INFO] - Disabling python warnings! <config.ignore_warnings=True>
+[2024-01-30 17:29:44,659][__main__][INFO] - Instantiating datamodule <main.module_base.DatamoduleWithValidation>.
+[2024-01-30 17:29:49,907][__main__][INFO] - Instantiating model <main.module_base.Model>.
+[2024-01-30 17:29:58,769][__main__][INFO] - Instantiating callback <pytorch_lightning.callbacks.RichProgressBar>.
+[2024-01-30 17:29:58,862][__main__][INFO] - Instantiating callback <pytorch_lightning.callbacks.ModelCheckpoint>.
+[2024-01-30 17:29:59,031][__main__][INFO] - Instantiating callback <pytorch_lightning.callbacks.RichModelSummary>.
+[2024-01-30 17:29:59,039][__main__][INFO] - Instantiating callback <main.module_base.MultiSourceSampleLogger>.
+[2024-01-30 17:29:59,197][__main__][INFO] - Instantiating logger <pytorch_lightning.loggers.wandb.WandbLogger>.
+[2024-01-30 17:30:55,257][__main__][INFO] - Instantiating trainer <pytorch_lightning.Trainer>.
+[2024-01-30 17:30:55,439][__main__][INFO] - Logging hyperparameters!
+[2024-01-30 17:30:55,632][__main__][INFO] - Starting training.
+[2024-01-31 09:12:50,661][main.utils][INFO] - Disabling python warnings! <config.ignore_warnings=True>
+[2024-01-31 09:12:50,753][__main__][INFO] - Instantiating datamodule <main.module_base.DatamoduleWithValidation>.
+[2024-01-31 09:12:54,242][__main__][INFO] - Instantiating model <main.module_base.Model>.
+[2024-01-31 09:12:57,595][__main__][INFO] - Instantiating callback <pytorch_lightning.callbacks.RichProgressBar>.
+[2024-01-31 09:12:57,674][__main__][INFO] - Instantiating callback <pytorch_lightning.callbacks.ModelCheckpoint>.
+[2024-01-31 09:12:57,736][__main__][INFO] - Instantiating callback <pytorch_lightning.callbacks.RichModelSummary>.
+[2024-01-31 09:12:57,740][__main__][INFO] - Instantiating callback <main.module_base.MultiSourceSampleLogger>.
+[2024-01-31 09:12:57,748][__main__][INFO] - Instantiating logger <pytorch_lightning.loggers.wandb.WandbLogger>.
+[2024-01-31 09:13:04,332][__main__][INFO] - Instantiating trainer <pytorch_lightning.Trainer>.
+[2024-01-31 09:13:04,396][__main__][INFO] - Logging hyperparameters!
+[2024-01-31 09:13:04,416][__main__][INFO] - Starting training.
+[2024-01-31 09:17:56,160][main.utils][INFO] - Disabling python warnings! <config.ignore_warnings=True>
+[2024-01-31 09:17:56,173][__main__][INFO] - Instantiating datamodule <main.module_base.DatamoduleWithValidation>.
+[2024-01-31 09:17:56,973][__main__][INFO] - Instantiating model <main.module_base.Model>.
+[2024-01-31 09:17:58,894][__main__][INFO] - Instantiating callback <pytorch_lightning.callbacks.RichProgressBar>.
+[2024-01-31 09:17:58,896][__main__][INFO] - Instantiating callback <pytorch_lightning.callbacks.ModelCheckpoint>.
+[2024-01-31 09:17:58,905][__main__][INFO] - Instantiating callback <pytorch_lightning.callbacks.RichModelSummary>.
+[2024-01-31 09:17:58,908][__main__][INFO] - Instantiating callback <main.module_base.MultiSourceSampleLogger>.
+[2024-01-31 09:17:58,918][__main__][INFO] - Instantiating logger <pytorch_lightning.loggers.wandb.WandbLogger>.
+[2024-01-31 09:18:05,247][__main__][INFO] - Instantiating trainer <pytorch_lightning.Trainer>.
+[2024-01-31 09:18:05,297][__main__][INFO] - Logging hyperparameters!
+[2024-01-31 09:18:05,359][__main__][INFO] - Starting training.
+[2024-01-31 13:23:04,902][main.utils][INFO] - Disabling python warnings! <config.ignore_warnings=True>
+[2024-01-31 13:23:04,964][__main__][INFO] - Instantiating datamodule <main.module_base.DatamoduleWithValidation>.
+[2024-01-31 13:23:09,884][__main__][INFO] - Instantiating model <main.module_base.Model>.
+[2024-01-31 13:23:12,838][__main__][INFO] - Instantiating callback <pytorch_lightning.callbacks.RichProgressBar>.
+[2024-01-31 13:23:12,842][__main__][INFO] - Instantiating callback <pytorch_lightning.callbacks.ModelCheckpoint>.
+[2024-01-31 13:23:12,893][__main__][INFO] - Instantiating callback <pytorch_lightning.callbacks.RichModelSummary>.
+[2024-01-31 13:23:12,895][__main__][INFO] - Instantiating callback <main.module_base.MultiSourceSampleLogger>.
+[2024-01-31 13:23:12,900][__main__][INFO] - Instantiating logger <pytorch_lightning.loggers.wandb.WandbLogger>.
+[2024-01-31 13:23:19,666][__main__][INFO] - Instantiating trainer <pytorch_lightning.Trainer>.
+[2024-01-31 13:23:19,722][__main__][INFO] - Logging hyperparameters!
+[2024-01-31 13:23:19,748][__main__][INFO] - Starting training.
+[2024-01-31 13:24:54,890][main.utils][INFO] - Disabling python warnings! <config.ignore_warnings=True>
+[2024-01-31 13:24:54,896][__main__][INFO] - Instantiating datamodule <main.module_base.DatamoduleWithValidation>.
+[2024-01-31 13:24:56,322][__main__][INFO] - Instantiating model <main.module_base.Model>.
+[2024-01-31 13:24:58,852][__main__][INFO] - Instantiating callback <pytorch_lightning.callbacks.RichProgressBar>.
+[2024-01-31 13:24:58,855][__main__][INFO] - Instantiating callback <pytorch_lightning.callbacks.ModelCheckpoint>.
+[2024-01-31 13:24:58,866][__main__][INFO] - Instantiating callback <pytorch_lightning.callbacks.RichModelSummary>.
+[2024-01-31 13:24:58,868][__main__][INFO] - Instantiating callback <main.module_base.MultiSourceSampleLogger>.
+[2024-01-31 13:24:58,872][__main__][INFO] - Instantiating logger <pytorch_lightning.loggers.wandb.WandbLogger>.
+[2024-01-31 13:25:04,656][__main__][INFO] - Instantiating trainer <pytorch_lightning.Trainer>.
+[2024-01-31 13:25:04,705][__main__][INFO] - Logging hyperparameters!
+[2024-01-31 13:25:04,729][__main__][INFO] - Starting training.
+[2024-01-31 13:25:55,066][main.utils][INFO] - Disabling python warnings! <config.ignore_warnings=True>
+[2024-01-31 13:25:55,078][__main__][INFO] - Instantiating datamodule <main.module_base.DatamoduleWithValidation>.
+[2024-01-31 13:25:56,676][__main__][INFO] - Instantiating model <main.module_base.Model>.
+[2024-01-31 13:25:59,518][__main__][INFO] - Instantiating callback <pytorch_lightning.callbacks.RichProgressBar>.
+[2024-01-31 13:25:59,522][__main__][INFO] - Instantiating callback <pytorch_lightning.callbacks.ModelCheckpoint>.
+[2024-01-31 13:25:59,547][__main__][INFO] - Instantiating callback <pytorch_lightning.callbacks.RichModelSummary>.
+[2024-01-31 13:25:59,551][__main__][INFO] - Instantiating callback <main.module_base.MultiSourceSampleLogger>.
+[2024-01-31 13:25:59,573][__main__][INFO] - Instantiating logger <pytorch_lightning.loggers.wandb.WandbLogger>.
+[2024-01-31 13:26:06,854][__main__][INFO] - Instantiating trainer <pytorch_lightning.Trainer>.
+[2024-01-31 13:26:06,923][__main__][INFO] - Logging hyperparameters!
+[2024-01-31 13:27:24,383][main.utils][INFO] - Disabling python warnings! <config.ignore_warnings=True>
+[2024-01-31 13:27:24,387][__main__][INFO] - Instantiating datamodule <main.module_base.DatamoduleWithValidation>.
+[2024-01-31 13:27:25,441][__main__][INFO] - Instantiating model <main.module_base.Model>.
+[2024-01-31 13:27:27,438][__main__][INFO] - Instantiating callback <pytorch_lightning.callbacks.RichProgressBar>.
+[2024-01-31 13:27:27,441][__main__][INFO] - Instantiating callback <pytorch_lightning.callbacks.ModelCheckpoint>.
+[2024-01-31 13:27:27,456][__main__][INFO] - Instantiating callback <pytorch_lightning.callbacks.RichModelSummary>.
+[2024-01-31 13:27:27,460][__main__][INFO] - Instantiating callback <main.module_base.MultiSourceSampleLogger>.
+[2024-01-31 13:27:27,477][__main__][INFO] - Instantiating logger <pytorch_lightning.loggers.wandb.WandbLogger>.
+[2024-01-31 13:27:34,490][__main__][INFO] - Instantiating trainer <pytorch_lightning.Trainer>.
+[2024-01-31 13:27:34,608][__main__][INFO] - Logging hyperparameters!
+[2024-01-31 13:27:34,721][__main__][INFO] - Starting training.
+[2024-01-31 13:32:56,647][main.utils][INFO] - Disabling python warnings! <config.ignore_warnings=True>
+[2024-01-31 13:32:56,689][__main__][INFO] - Instantiating datamodule <main.module_base.DatamoduleWithValidation>.
+[2024-01-31 13:32:58,505][__main__][INFO] - Instantiating model <main.module_base.Model>.
+[2024-01-31 13:33:01,666][__main__][INFO] - Instantiating callback <pytorch_lightning.callbacks.RichProgressBar>.
+[2024-01-31 13:33:01,668][__main__][INFO] - Instantiating callback <pytorch_lightning.callbacks.ModelCheckpoint>.
+[2024-01-31 13:33:01,681][__main__][INFO] - Instantiating callback <pytorch_lightning.callbacks.RichModelSummary>.
+[2024-01-31 13:33:01,684][__main__][INFO] - Instantiating callback <main.module_base.MultiSourceSampleLogger>.
+[2024-01-31 13:33:01,706][__main__][INFO] - Instantiating logger <pytorch_lightning.loggers.wandb.WandbLogger>.
+[2024-01-31 13:33:08,773][__main__][INFO] - Instantiating trainer <pytorch_lightning.Trainer>.
+[2024-01-31 13:33:08,849][__main__][INFO] - Logging hyperparameters!
+[2024-01-31 13:33:08,921][__main__][INFO] - Starting training.
